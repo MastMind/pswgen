@@ -28,7 +28,7 @@ Result:
 <br><br>
 `Prefix_bbac_Postfix`
 <br><br>
-Mask value can considers escape characters (with "\". In that cases all mask value should be in quotes)
+Mask value can considers escape characters (with "\\". In that cases all mask value should be in quotes)
 <br><br>
 Builtin charsets:
 <br><br>
